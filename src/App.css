@@ -1,4 +1,25 @@
 .box{
     background: linear-gradient(rgba(250,0,0,0.5),transparent);
     background-color: orange;
+    }
+
+.nav {
+background-color: transparent;
+color: black;
+font-weight: bolder;
+border-bottom: black;
+}
+
+.nav-tabs {
+color: black;
+}
+
+.nav-link {
+color: black;
+}
+
+.signature {
+    font-style: italic;
+    font-family:fantasy;
+    font-size: 3rem;
 }
