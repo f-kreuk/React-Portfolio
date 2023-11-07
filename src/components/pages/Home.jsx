@@ -1,3 +1,7 @@
+import React from 'react';
+import '../../index.css';
+import
+
 export default function Home() {
   return (
     <div>
