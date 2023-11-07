@@ -36,3 +36,8 @@ color: black;
     font-family: fantasy;
     font-style: italic;
   }
+
+  .project-image {
+    width: 100%;
+    height: auto;
+     }
