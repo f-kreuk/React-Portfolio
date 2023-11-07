@@ -32,6 +32,22 @@ color: black;
     display: inline-block;
   }
 
+  .dot {
+    height: 25px;
+    width: 25px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot2 {
+    height: 25px;
+    width: 25px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
   .bold {
     font-family: fantasy;
     font-style: italic;

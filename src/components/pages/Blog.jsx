@@ -16,7 +16,6 @@ export default function Blog() {
             <img src="src\assets\CQuest.JPG" alt="CalorieQuest" className="project-image mb-4" />
           </a>
         </div>
-        
         <div className="container col-md-5 card ml-2 mr-2">
           <h3 className="signature h3 text-center">5-day-weather</h3>
           <p>The purpose of this website is to generate a five day weather forecast utilizing the openweathermap API. The website will store the user's city searches in local storage and permit the user to revisit the prior city searches by selecting them.</p>
