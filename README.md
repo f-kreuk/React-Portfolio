@@ -28,7 +28,7 @@ See below a screenshot of the live portfolio.
 
 ![Screenshot](/assets/portfolio.JPG)
 
-![DeployedApp](https://main--steady-tapioca-478533.netlify.app/)
+[DeployedApp](https://main--steady-tapioca-478533.netlify.app/)
  
  ## License
  
