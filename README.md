@@ -26,7 +26,7 @@
  
 See below a screenshot of the live portfolio.
 
-![Screenshot](/src/assets/portfolio.JPG)
+![Screenshot](/assets/portfolio.JPG)
 
  
  ## License

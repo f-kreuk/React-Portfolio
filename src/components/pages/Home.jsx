@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../index.css';
 import '../../App.css';
-import profilePicture from '../../assets/Florian.png';
+import profilePicture from '/assets/Florian.png';
 
 export default function Home() {
   return (
