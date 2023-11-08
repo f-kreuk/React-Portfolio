@@ -13,7 +13,7 @@ export default function Blog() {
           <h3 className="signature h3 text-center">CalorieQuest</h3>
           <p>Calorie Quest is a web-based calorie tracker app designed to help users manage their calorie intake, track their progress towards weight goals, and make healthier lifestyle choices.</p>
           <a href="https://github.com/f-kreuk/CalorieQuest/tree/main">
-            <img src="src\assets\CQuest.JPG" alt="CalorieQuest" className="project-image mb-4" />
+            <img src="../assets/CQuest.JPG" alt="CalorieQuest" className="project-image mb-4" />
           </a>
         </div>
         <div className="container col-md-5 card ml-2 mr-2">
