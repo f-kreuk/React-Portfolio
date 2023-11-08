@@ -40,13 +40,7 @@ See below a screenshot of the live portfolio.
  
  ## Credits
  
- [The following documentation page was utilized to understand the various license types in GitHub.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
- 
- [The following tutorial was utilized as a starting place for a professional ReadMe.](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
- [The following GitHub site was utilized for the license badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
-
- [The following YouTube tutorial was utilized to learn dependent picklists, see 14:47](https://www.youtube.com/watch?v=CfS6eOBe8AY)
+ Starter code was utilized from the UCONN Full Stack Coding Bootcamp, specifically Module 20 Mini-Project.
  
  
  ## Contributing
